@@ -5,6 +5,7 @@ This code reproduces the paper, http://ieeexplore.ieee.org/document/1663617/ by 
 
 ## Deployment Platform
 - Xilinx Nexys4 DDR board
+- IP written in VHDL
 
 ## Tutorial
 - Coming soon
